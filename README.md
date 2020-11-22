@@ -24,3 +24,7 @@ Responsively Designed Portfolio
 
 <h2>Acknowledgments</h2> 
 <p>Special thanks for the suggestions on style from Ben Scotland and Levi Halvorson.</p>
+
+<h2>Contact</h2>
+<p>Please feel free to contact through my github account if you have any questions!</p>
+<a className="contactIcon" href="https://github.com/klsybthrst" target="blank">klsybthrst</a>
